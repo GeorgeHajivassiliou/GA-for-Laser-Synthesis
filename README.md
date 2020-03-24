@@ -1,6 +1,6 @@
 # Genetic Algorithm for Laser Pulse Synthesis.
 
-A summer research project at Imperial College London. The whole project is found here as a very long jupyter notebook.
+A summer research project at Imperial College London. The whole project is found here as a very long jupyter notebook. This most important aspect of this project is that during 6 weeks my partner and I managed to __write our own genetic algorithm__ which turned out to work very well.
 
 __Layperson Summary__
 
